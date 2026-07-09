@@ -1,0 +1,1 @@
+void max_char(char arr[], int SIZE );
