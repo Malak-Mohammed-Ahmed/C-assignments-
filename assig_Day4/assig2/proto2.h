@@ -1,1 +1,0 @@
-void sorting_arr(int arr[], int SIZE);

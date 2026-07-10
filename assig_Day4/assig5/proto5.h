@@ -1,1 +1,0 @@
-void get_frequency(char arr[], int SIZE, char search_char);
