@@ -1,1 +1,0 @@
-void scan_display_arr(char arr[],int SIZE);
